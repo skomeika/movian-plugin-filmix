@@ -1,0 +1,14 @@
+{
+	"description": "<p>Yeap<p>",
+	"author": "Skomeika", 
+	"homepage": "https://filmix.today",
+	"title": "Filmix",
+	"synopsis": "filmix ru",
+	"version": "0.0.2",
+    "file": "filmix.js",
+	"showtimeVersion": "5",
+	"type": "ecmascript",
+	"icon": "logo.png",
+	"id": "filmix",
+	"category": "video"
+}
